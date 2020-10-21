@@ -1,3 +1,5 @@
 This is file txt
 
 Add Login Feature.
+
+Add Register Feature.
